@@ -1,0 +1,16 @@
+#timeBox {
+			border: 1px solid black;  background-color: #48A4FF;
+			margin: 10px auto;
+		}
+
+		#time {
+			text-align: center; font-size: 100px;  
+		}
+		
+		div.footer {
+			border: 1px solid black; background-color: #CCC;
+		}
+
+		p.footer{
+			text-align: center; font-weight: bold; 
+		}
